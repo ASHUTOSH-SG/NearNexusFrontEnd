@@ -1,8 +1,8 @@
-#NearNexusFrontEnd
+## NearNexus-FrontEnd
 
 ## Overview
 
-This project is a front-end website developed using React, HTML, CSS, and JavaScript. It serves as an interactive platform to showcase and explore a variety of electronic products. The product data is fetched from the [Thapa Technical Product API](https://jsonkeeper.com/b/2XS9), which provides a comprehensive list of electronic items.
+This project is a front-end website developed using React, HTML, CSS, and JavaScript. It serves as an interactive platform to showcase and explore a variety of electronic products. The product data is fetched from the (https://jsonkeeper.com/b/2XS9), which provides a comprehensive list of electronic items.
 
 ## Installation
 
@@ -48,7 +48,7 @@ This will launch the app on your localhost, and you can access it through your w
 
 ## Product Data API
 
-The electronic product data is sourced from the [Thapa Technical Product API](https://jsonkeeper.com/b/2XS9).  enabling the seamless integration of product listings into our project.
+The electronic product data is sourced from the (https://jsonkeeper.com/b/2XS9).  enabling the seamless integration of product listings into our project.
 
 ## Acknowledgments
 
